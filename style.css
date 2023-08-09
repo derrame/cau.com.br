@@ -1,0 +1,45 @@
+@font-face{
+    font-family: 'Comic Sans MS';
+    src: url(Comic Sans MS);
+}
+header {
+    width: 100%;
+    height: 150px;
+    display: block;
+    float: left;
+    background-color: rgb(255, 0, 157);
+}
+
+header h1{
+    font-family: 'Comic Sans MS';
+    color: white;
+    display: block;
+    float: left;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 45%;
+
+}
+
+article {
+    width: 70%;
+    height: 800px;
+    display: block;
+    float: left;
+    background-color: rgb(43, 40, 40);
+}
+
+aside {
+    width: 30%;
+    height: 800px;
+    display: block;
+    float: left;
+    background-color: rgb(56, 53, 53);
+}
+footer {
+    width: 100%;
+    height: 70px;
+    display: block;
+    float: left;
+    background-color: rgb(136, 136, 136);
+}
