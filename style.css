@@ -17,7 +17,7 @@ header h1{
     float: left;
     width: 200px;
     margin-top: 30px;
-    margin-left: 45%;
+    margin-left: 25%;
 
 }
 
@@ -53,4 +53,12 @@ article section ul{
     font-family: 'Comic Sans MS';
     margin-left: 10%;
     color: white;
+}
+aside h2{
+    font-family: 'Comic Sans MS';
+    padding-left: 5%;
+}
+header img{
+    float: left;
+    
 }
